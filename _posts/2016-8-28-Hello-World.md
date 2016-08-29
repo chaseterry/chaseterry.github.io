@@ -3,14 +3,13 @@ layout: post
 title: Week One Post
 ---
 
-
 ## What did you do this past week?
 
 ## What's in your way?
 
-##What will you do next week?
+## What will you do next week?
 
-##Tip of the Week
+## Tip of the Week
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
