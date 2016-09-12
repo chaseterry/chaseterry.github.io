@@ -16,10 +16,6 @@ I will be starting on the next project (hopefully) on Monday. I have a partner l
 Now that I'm finally done with Collatz, it doesn't seem like it was that difficult of a project. I spend a much larger ratio of time and effort on the dev setup than actual coding. We were essentially given the solution to the problem, and told to improve it. However, Docker gave me headaches for a full week, the instructions were vague in someplaces (apparently intentionally), and I had never used clang-format, Doxygen, or Travis CI, so they took a bit of finagling and confusion to get them to work. But now that everything is setup, hopefully the future projects will be smooth sailing.
 
 ## Tip of the Week
-A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've never seen it, I'd recommend fiddling around with it. You don't even have to enjoy video games, it's more of a simplistic model for life. It is a grid based set of cells, which live, die, or reproduce based on a set of simple mathematical rules. The rules are as follows:
-For a space that is 'populated':
-* Each cell with one or no neighbors dies, as if by solitude.
-* Each cell with four or more neighbors dies, as if by overpopulation.
-* Each cell with two or three neighbors survives.
-For a space that is 'empty' or 'unpopulated'
-* Each cell with three neighbors becomes populated.
+A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've never seen it, I'd recommend fiddling around with it. You don't even have to enjoy video games, it's more of a simplistic model for life. It is a grid based set of cells, which live, die, or reproduce based on a set of simple mathematical rules. The rules are as follows:\n
+For a space that is 'populated': Each cell with one or no neighbors dies, as if by solitude. Each cell with four or more neighbors dies, as if by overpopulation. Each cell with two or three neighbors survives.\n
+For a space that is 'empty' or 'unpopulated': Each cell with three neighbors becomes populated.
