@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Week Three
-published: true
 ---
 
 ## What did you do this past week?
