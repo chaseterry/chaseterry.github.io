@@ -18,8 +18,8 @@ Now that I'm finally done with Collatz, it doesn't seem like it was that difficu
 ## Tip of the Week
 A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've never seen it, I'd recommend fiddling around with it. You don't even have to enjoy video games, it's more of a simplistic model for life. It is a grid based set of cells, which live, die, or reproduce based on a set of simple mathematical rules. The rules are as follows:
 For a space that is 'populated':
-- Each cell with one or no neighbors dies, as if by solitude.
-- Each cell with four or more neighbors dies, as if by overpopulation.
-- Each cell with two or three neighbors survives.
+* Each cell with one or no neighbors dies, as if by solitude.
+* Each cell with four or more neighbors dies, as if by overpopulation.
+* Each cell with two or three neighbors survives.
 For a space that is 'empty' or 'unpopulated'
-- Each cell with three neighbors becomes populated.
+* Each cell with three neighbors becomes populated.
