@@ -4,7 +4,7 @@ title: Week Four
 ---
 
 ## What did you do this past week?
-This week I learned from my mistakes of starting Collatz late and started with my pair programmer on the Netflix project on Monday. On Wednesday I learned much more about Bloomberg. I originally wrote Bloomberg off as just another "techy" finance company, but Bloomberg seems like a fantastic company that truly cares about making a positive impact. My goal after graduation has been to go into an industry ... Additionally on Friday I learned more basics about C/C++ that I had somewhat used before but never knew the format definitions of them, including arrays, lists, and iterators.
+This week I learned from my mistakes of starting Collatz late and started with my pair programmer on the Netflix project on Monday. On Wednesday I learned much more about Bloomberg. I originally wrote Bloomberg off as just another "techy" finance company, but Bloomberg seems like a fantastic company that truly cares about making a positive impact. My goal after graduation has been to go into an industry or company that cares and strives to make a positive impact on their employees, customers, or the world. Currently looking into healthcare tech firms as that seems like the current best way to have a positive effect. Additionally on Friday I learned more basics about C/C++ that I had somewhat used before but never knew the format definitions of them, including arrays, lists, and iterators.
 Unrelated to the class, I made it onto Texas Crew! Officially signed onto the team this weekend.
 
 ## What's in your way?
@@ -18,6 +18,3 @@ I am really enjoying this class. It’s a fusion of practice technologies and sk
 
 ## Tip of the Week
 To keep you (and hopefully your pair programming partner) in good spirits during long coding sessions, check out [fun linux commands](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/) for a series of entertaining, wacky, or otherwise fun linux commands that have no practice uses, but are amusing. One of my favorites is “sl”, which is short for Steam Locomotive. You might have stumbled onto it as it is installed on all of the lab machines and happens whenever you type in “sl” or “LS”.
-
-## Tip of the Week
-A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've 
