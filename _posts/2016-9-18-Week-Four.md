@@ -4,26 +4,20 @@ title: Week Four
 ---
 
 ## What did you do this past week?
-This week I learned from my mistakes of starting Collatz late and started with my pair programmer on the Netflix project on Monday. On Wednesday I learned much more about Bloomberg. I orignally wrote Bloomberg off as just another "techy" finance company, but Bloomberg seems like a fantastic company that truly cares about making a positive impact. My goal after graduation has been to go into an industry ... Addtionally on Friday I learned more basics about C/C++ that I had somewhat used before but never knew the format defintions of them, including arrays, lists, and iterators.
+This week I learned from my mistakes of starting Collatz late and started with my pair programmer on the Netflix project on Monday. On Wednesday I learned much more about Bloomberg. I originally wrote Bloomberg off as just another "techy" finance company, but Bloomberg seems like a fantastic company that truly cares about making a positive impact. My goal after graduation has been to go into an industry ... Additionally on Friday I learned more basics about C/C++ that I had somewhat used before but never knew the format definitions of them, including arrays, lists, and iterators.
+Unrelated to the class, I made it onto Texas Crew! Officially signed onto the team this weekend.
 
 ## What's in your way?
-Networking, career fairs, and interviews. While not
+Networking, career fairs, and interviews. While not really negative or hindrance to me, these take up quite a bit of time. I’m excited for the possibilities for the summer, but these events take it out of me. Networking, career fairs, and interviews are exhausting. 
 
 ## What will you do next week?
-I will be starting on the next project (hopefully) on Monday. I have a partner lined up and regret from starting Collatz so late, so I'm very ready to start as soon as possible. In addition, I would preferably get my life together. I was entirely sleep deprived last week and it was only the second week of school, so something needs to change. I don't know what it is, but I will be finding that out very soon.
+I will be finishing up Netflix, and going to several networking events, two career fairs, and hopefully as many interviews as I can land. I will also be flying out to San Francisco this Friday for Out for Undergrad in Technology Conference.
 
 ## Class Impressions
-Now that I'm finally done with Collatz, it doesn't seem like it was that difficult of a project. I spend a much larger ratio of time and effort on the dev setup than actual coding. We were essentially given the solution to the problem, and told to improve it. However, Docker gave me headaches for a full week, the instructions were vague in someplaces (apparently intentionally), and I had never used clang-format, Doxygen, or Travis CI, so they took a bit of finagling and confusion to get them to work. But now that everything is setup, hopefully the future projects will be smooth sailing.
+I am really enjoying this class. It’s a fusion of practice technologies and skills for industry and learning the basics and importance of C++ or other object-oriented languages. The projects are based in practical problems and honestly fun to code. It was also nice to hear from a software engineering veteran in class.
 
 ## Tip of the Week
-A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've never seen it, I'd recommend fiddling around with it. You don't even have to enjoy video games, it's more of a simplistic model for life. It is a grid based set of cells, which live, die, or reproduce based on a set of simple mathematical rules. The rules are as follows:
+To keep you (and hopefully your pair programming partner) in good spirits during long coding sessions, check out [fun linux commands](http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/) for a series of entertaining, wacky, or otherwise fun linux commands that have no practice uses, but are amusing. One of my favorites is “sl”, which is short for Steam Locomotive. You might have stumbled onto it as it is installed on all of the lab machines and happens whenever you type in “sl” or “LS”.
 
-For a space that is 'populated': 
-
-- Each cell with one or no neighbors dies, as if by solitude. 
-- Each cell with four or more neighbors dies, as if by overpopulation. 
-- Each cell with two or three neighbors survives.
-
-For a space that is 'empty' or 'unpopulated': 
-
-- Each cell with three neighbors becomes populated.
+## Tip of the Week
+A very neat game I've discovered this week is [John Conway's Game of Life](http://www.bitstorm.org/gameoflife/). If you've 
