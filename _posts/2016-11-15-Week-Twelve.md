@@ -26,6 +26,6 @@ I don’t particularly have any new ideas to talked about OOP. This week has bee
 
 
 ## Tip of the Week
-If you need a break from schoolwork, and want to waste your time and hard-earned money, I recommend checking out (Kickstarter)[https://www.kickstarter.com/discover/categories/technology] (specifally the technology page) for a series of neat but ultimately useless tech gadgets for which you’ll have to wait up to five years to recieve from the time you paid for it! I really like Kickstarter, but I’ve been burned a couple of times on products. In the end, it’s a cool website to look at neat new tech ideas people have come up with.
+If you need a break from schoolwork, and want to waste your time and hard-earned money, I recommend checking out (Kickstarter)[https://www.kickstarter.com/discover/categories/technology/] (specifally the technology page) for a series of neat but ultimately useless tech gadgets for which you’ll have to wait up to five years to recieve from the time you paid for it! I really like Kickstarter, but I’ve been burned a couple of times on products. In the end, it’s a cool website to look at neat new tech ideas people have come up with.
 
 
