@@ -23,4 +23,4 @@ Quite a bit for Mobile Computing, my android development class. I have my only t
 Again, there’s not a whole lot new I’ve experience in OOP. There’s only a handful more classes left, and I don’t expect there to be too many surprises, but you never know.
 
 ## Tip of the Week
-Since it’s getting around the time for summer internship offer deadlines, I reccomndend glassdoor.com as a source of information to help compare or decide offers. 
+Since it’s getting around the time for summer internship offer deadlines, I recommend glassdoor.com as a source of information to help compare or decide offers. 
